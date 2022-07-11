@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ArkaSarkar19/ArkaSarkar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AshwinSheoran02/AshwinSheoran02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## @AshwinSheoran02
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaSarkar19&layout=compact" alt="languages">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&layout=compact" alt="languages">
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:itissandep98@gmail.com)](mailto:ashwin20288@iiitd.ac.in)
@@ -29,17 +29,17 @@ Here are some ideas to get you started:
 
 
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ArkaSarkar19&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=AshwinSheoran02&show_icons=true">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
 
-[![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
 [![PHP](https://img.shields.io/badge/-PHP-brightgreen)](https://github.com/AshwinSheoran/)
 
-[![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
-[![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
-[![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
+[![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
+[![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
