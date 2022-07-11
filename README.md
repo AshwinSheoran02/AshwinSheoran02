@@ -32,14 +32,16 @@ Here are some ideas to get you started:
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
-(https://github.com/AshwinSheoran02/)
+
+
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/AshwinSheoran/)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AshwinSheoran02&show_icons=true">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
 
-[![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/AshwinSheoran02/)]
+
+![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/AshwinSheoran02/)
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/AshwinSheoran02/)
 [![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
