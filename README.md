@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
 
 [![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
-[![PHP](https://img.shields.io/badge/-PHP-brightgreen)](https://github.com/AshwinSheoran/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/AshwinSheoran/)
 
 [![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
 [![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
