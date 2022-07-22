@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
 
 
-![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/AshwinSheoran02/)
+![Python3](https://img.shields.io/badge/-Python3-darkgreen?style=flat-square&logo=python&link=https://github.com/AshwinSheoran02/)
 ![Pygame](https://img.shields.io/badge/-Pygame-red?style=flat-square&logo=python&link=https://github.com/AshwinSheoran02/)
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/AshwinSheoran02/)
