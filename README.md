@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ## @AshwinSheoran02
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&layout=compact&langs_count=8" alt="languages">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&layout=compact&langs_count=10" alt="languages">
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:itissandep98@gmail.com)](mailto:ashwin20288@iiitd.ac.in)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:shwin20288@iiitd.ac.in)](mailto:ashwin20288@iiitd.ac.in)
 
 ## Technology Stack
 
