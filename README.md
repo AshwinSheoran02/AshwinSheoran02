@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/AshwinSheoran/)
+(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AshwinSheoran02&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india">
 
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/AshwinSheoran02/)
 [![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)(https://github.com/AshwinSheoran02/)
+
 [![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
 
 :globe_with_meridians: https://ashwinsheoran02.github.io/
