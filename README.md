@@ -50,4 +50,6 @@ Here are some ideas to get you started:
 
 :globe_with_meridians: https://ashwinsheoran02.github.io/
 
+![](https://komarev.com/ghpvc/?username=AshwinSheoran02&style=flat-square)
+
 
