@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![Python3](https://img.shields.io/badge/-Python3-darkgreen?style=flat-square&logo=python&link=https://github.com/AshwinSheoran02/)
 ![Pygame](https://img.shields.io/badge/-Pygame-red?style=flat-square&logo=python&link=https://github.com/AshwinSheoran02/)
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white )](https://github.com/AshwinSheoran02/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=blue )](https://github.com/AshwinSheoran02/)
 [![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
