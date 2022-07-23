@@ -54,6 +54,5 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=AshwinSheoran02&style=flat-square)
 
-<img align='right' src="https://skyline.github.com/AshwinSheoran02/2022">
 
 
