@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## @AshwinSheoran02
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&layout=compact&langs_count=11" alt="languages">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&layout=compact&langs_count=11&theme=tokyonight" alt="languages">
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:shwin20288@iiitd.ac.in)](mailto:ashwin20288@iiitd.ac.in)
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=AshwinSheoran02&style=flat-square)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&theme=tokyonight)
 
 
 
