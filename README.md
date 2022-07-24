@@ -54,5 +54,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=AshwinSheoran02&style=flat-square)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
+
 
 
