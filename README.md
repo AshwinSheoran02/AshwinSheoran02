@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=AshwinSheoran02&style=flat-square)
 
 
-<img align='right' src="http://github-readme-streak-stats.herokuapp.com/?user=AshwinSheoran02&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak">
+<img align='right' src="http://github-readme-streak-stats.herokuapp.com/?user=AshwinSheoran02&theme=flag-india&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak">
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&theme=tokyonight)
 
