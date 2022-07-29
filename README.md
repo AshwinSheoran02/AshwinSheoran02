@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&theme=tokyonight)
 
-![](https://activity-graph.herokuapp.com/graph?username=narayanbavisetti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+<img  src="https://activity-graph.herokuapp.com/graph?username=AshwinSheoran02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" >
 
 
 
