@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
@@ -47,6 +48,8 @@ Here are some ideas to get you started:
 
 ![Python3](https://img.shields.io/badge/-Python3-darkgreen?style=flat-square&logo=python&link=https://github.com/AshwinSheoran02/)
 ![Pygame](https://img.shields.io/badge/-Pygame-red?style=flat-square&logo=python&link=https://github.com/AshwinSheoran02/)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=blue )](https://github.com/AshwinSheoran02/)
 [![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
