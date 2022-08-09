@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white )](https://github.com/AshwinSheoran02/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=blue )](https://github.com/AshwinSheoran02/)
 [![Javafx](https://img.shields.io/badge/JavaFx-ADD8E6?style=for-the-badge&logo=java&logoColor=white)](https://github.com/AshwinSheoran02/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
