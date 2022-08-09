@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 ![Python3](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Pygame](https://img.shields.io/badge/PyGame-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pygame](https://img.shields.io/badge/PyGame-FF0000?style=for-the-badge&logo=python&logoColor=yellow)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
