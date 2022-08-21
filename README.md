@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AshwinSheoran02&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
+[![GitHub](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)]
 
 
 ![Python3](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
