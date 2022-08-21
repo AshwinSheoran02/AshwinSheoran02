@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=blue )](https://github.com/AshwinSheoran02/)
 [![Javafx](https://img.shields.io/badge/JavaFx-ADD8E6?style=for-the-badge&logo=java&logoColor=white)](https://github.com/AshwinSheoran02/)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/AshwinSheoran02/)](https://github.com/AshwinSheoran02/)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AshwinSheoran02/)
 
 :globe_with_meridians: https://ashwinsheoran02.github.io/
 
