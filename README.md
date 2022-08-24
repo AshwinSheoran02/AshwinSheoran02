@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # Ashwin Sheoran
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 ## @AshwinSheoran02
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&layout=compact&langs_count=12&theme=flag-india" alt="languages">
