@@ -22,7 +22,12 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&layout=compact&langs_count=12&theme=flag-india" alt="languages">
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:shwin20288@iiitd.ac.in)](mailto:ashwin20288@iiitd.ac.in)
+<div align="left">
+  <a href="mailto:ashwin20288@iiitd.ac.in" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ashwin-sheoran-731a67231/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+ </div>
 
 ## Technology Stack
 
