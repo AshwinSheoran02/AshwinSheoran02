@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## @AshwinSheoran02
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&layout=compact&langs_count=12&theme=flag-india" alt="languages">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=AshwinSheoran02&show_icons=true&&theme=flag-India&locale=en&layout=compact&hide=mathematica&langs_count=10" alt="languages">
 
 
 <div align="left">
