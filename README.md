@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=blue )](https://github.com/AshwinSheoran02/)
 [![Javafx](https://img.shields.io/badge/JavaFx-ADD8E6?style=for-the-badge&logo=java&logoColor=white)](https://github.com/AshwinSheoran02/)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AshwinSheoran02/)
 
