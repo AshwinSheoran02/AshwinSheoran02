@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/AshwinSheoran/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/AshwinSheoran/)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AshwinSheoran02&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india">
 
