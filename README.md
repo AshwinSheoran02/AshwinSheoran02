@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## @AshwinSheoran02
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=AshwinSheoran02&show_icons=true&&theme=flag-India&locale=en&layout=compact&hide=lua&langs_count=10" alt="languages">
+<img align='right' src="https://github-readme-stats.-sigma-fivevercel.app/api/top-langs?username=AshwinSheoran02&show_icons=true&&theme=flag-India&locale=en&layout=compact&hide=lua&langs_count=10" alt="languages">
 
 
 <div align="left">
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/AshwinSheoran/)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=AshwinSheoran02&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india">
+<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=AshwinSheoran02&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshwinSheoran02/)
 ![GitHub](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
