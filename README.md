@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Ashwin Sheoran
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-## @AshwinSheoran02
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Ashwin🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)## @AshwinSheoran02
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&hide=lua&layout=compact&langs_count=10" alt="languages">
 
