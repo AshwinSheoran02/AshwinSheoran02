@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 ## @AshwinSheoran02
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02&hide=lua&layout=compact&langs_count=10" alt="languages">
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSheoran02)
 
 <div align="left">
   <a href="mailto:ashwin20288@iiitd.ac.in" target="_blank" rel="noreferrer"> <img alt="Ashwin Sheoran's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
