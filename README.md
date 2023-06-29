@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ## @AshwinSheoran02
 
-![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=AshwinSheoran02)
-<!-- <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AshwinSheoran02&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india">
--->
+<!-- ![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=AshwinSheoran02) -->
+ <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AshwinSheoran02&show_icons=true&theme=flag-india">
+
 
 
 <div align="left">
