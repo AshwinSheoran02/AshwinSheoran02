@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## @AshwinSheoran02
 
 <!-- ![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=AshwinSheoran02) -->
-<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AshwinSheoran02&show_icons=true&&theme=flag-India&locale=en&layout=compact&hide=lua&langs_count=10" alt="languages">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=AshwinSheoran02&show_icons=true&&theme=flag-India&locale=en&layout=compact&hide=lua&langs_count=10" alt="languages">
 
 
 
