@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Ashwin Sheoran
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Ashwin%20Sheoran%20🤠&width=700&height=150)](https://github.com/AshwinSheoran02)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Ashwin%20Sheoran%20🤠&width=680&height=150)](https://github.com/AshwinSheoran02)
 <img src="https://github.com/AshwinSheoran02/AshwinSheoran02/assets/88393756/36a6cc0c-8a22-4d44-b5ce-21d4af00dc7b"  width="150" height="150" />
 
 
