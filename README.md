@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/ashwin-sheoran-731a67231/" target="_blank" rel="noreferrer"> <img alt="Ashwin Sheoran's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="https://codeforces.com/profile/AshwinSheoran" target="_blank" rel="noreferrer"> <img alt="Ashwin Sheoran's Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> </a>
   &nbsp;
+  <a href="https://leetcode.com/AshwinSheoran/"  > <img src="https://badges.peiyuan.ch/leetcode/AshwinSheoran/ranking?logo=leetcode&label=AshwinSheoran&style=for-the-badge&color=green"/> </a>
  </div>
 
 ## Technology Stack
